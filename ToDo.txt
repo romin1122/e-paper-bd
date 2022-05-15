@@ -1,0 +1,6 @@
+APIs
+Get all editions: https://epaper.thedailystar.net/Home/GetAllSupplement?edid=1&EditionDate=15%2F05%2F2022
+Get all edition pages with EditionID: https://epaper.thedailystar.net/Home/GetAllpages?editionid=1&editiondate=15%2F05%2F2022
+Get all page stories: https://epaper.thedailystar.net/Home/getingRectangleObject?pageid=143511
+	objectID == storyID
+Get story details: https://epaper.thedailystar.net/Home/getstorydetail?Storyid=294293
